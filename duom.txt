@@ -1,0 +1,8 @@
+800 laiko vnt dirba
+30 procentu kad laiko vienete ateis pacientas
+100 poliklinikos specialistu
+20 laiko vnt aptarnauja specialistas
+50 piniginiu vnt gauna uz viena pacienta
+80 apylinkiu specialistu
+10 laiko vnt aptarnauja apylinkiu specialistas
+25 pinigu vnt gauna uz viena pacienta 
