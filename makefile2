@@ -1,0 +1,5 @@
+CC=gcc
+CFLAGS=-I.
+
+polik: polik.o queue.o big_int_functions.o generate_func.o work_func.o
+	$(CC) -o polik polik.o queue.o big_int_functions.o generate_func.o work_func.o
